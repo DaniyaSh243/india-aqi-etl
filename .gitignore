@@ -1,0 +1,36 @@
+# Virtual environment
+venv/
+.venv/
+
+# Raw data (ephemeral API snapshots)
+data/raw/
+
+# Track processed CSVs and database
+!data/processed/*.csv
+!db/aqi.db
+
+# Logs
+logs/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# Streamlit
+.streamlit/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

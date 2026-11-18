@@ -1,0 +1,84 @@
+{
+  "cities": [
+    {
+      "city_id": 1,
+      "name": "Delhi",
+      "state": "Delhi",
+      "region": "North",
+      "latitude": 28.6139,
+      "longitude": 77.2090
+    },
+    {
+      "city_id": 2,
+      "name": "Mumbai",
+      "state": "Maharashtra",
+      "region": "West",
+      "latitude": 19.0760,
+      "longitude": 72.8777
+    },
+    {
+      "city_id": 3,
+      "name": "Kolkata",
+      "state": "West Bengal",
+      "region": "East",
+      "latitude": 22.5726,
+      "longitude": 88.3639
+    },
+    {
+      "city_id": 4,
+      "name": "Chennai",
+      "state": "Tamil Nadu",
+      "region": "South",
+      "latitude": 13.0827,
+      "longitude": 80.2707
+    },
+    {
+      "city_id": 5,
+      "name": "Bengaluru",
+      "state": "Karnataka",
+      "region": "South",
+      "latitude": 12.9716,
+      "longitude": 77.5946
+    },
+    {
+      "city_id": 6,
+      "name": "Hyderabad",
+      "state": "Telangana",
+      "region": "South",
+      "latitude": 17.3850,
+      "longitude": 78.4867
+    },
+    {
+      "city_id": 7,
+      "name": "Ahmedabad",
+      "state": "Gujarat",
+      "region": "West",
+      "latitude": 23.0225,
+      "longitude": 72.5714
+    },
+    {
+      "city_id": 8,
+      "name": "Pune",
+      "state": "Maharashtra",
+      "region": "West",
+      "latitude": 18.5204,
+      "longitude": 73.8567
+    },
+    {
+      "city_id": 9,
+      "name": "Jaipur",
+      "state": "Rajasthan",
+      "region": "North",
+      "latitude": 26.9124,
+      "longitude": 75.7873
+    },
+    {
+      "city_id": 10,
+      "name": "Indore",
+      "state": "Madhya Pradesh",
+      "region": "Central",
+      "latitude": 22.7196,
+      "longitude": 75.8577
+    }
+  ]
+}
